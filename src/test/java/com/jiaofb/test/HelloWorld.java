@@ -9,6 +9,6 @@ package com.jiaofb.test;
 public class HelloWorld {
     //这是 一个main方法，是程序的入口：
     public static void main(String[] args) {
-        System.out.println("HelloWorld!");
+        System.out.println("Hello  World!");
     }
 }
